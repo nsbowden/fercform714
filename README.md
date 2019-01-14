@@ -1,6 +1,6 @@
 R tools for acquiring and processing FERC Form 714
 
-The current tool gets the most recent of the FERC Form 714 data from https://www.ferc.gov/docs-filing/forms/form-714/data.asp.
+The current tool gets the most recent of the [FERC Form 714 data](https://www.ferc.gov/docs-filing/forms/form-714/data.asp)
 
 getForm714() gets a zip archive that contains data from 2006 to 2017.  
 Work continues to include older data which is fragmented by year and geography. 
