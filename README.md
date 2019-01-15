@@ -47,5 +47,5 @@ Again we can source the file into the R environment.
 And assign the result of calc714AnnualLambda() to some variable, d for instance.
 
 ```
-> d = calc714AnnualLambda(datadir)
+> d = calcForm714AnnualLambda(datadir)
 ```
