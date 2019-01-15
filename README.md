@@ -41,11 +41,11 @@ Checking to see that the datadir has the right value.
 Again we can source the file into the R environment.
 
 ```
-> source("calc714AnnualLambda.R")
+> source("calcForm714AnnualLambda.R")
 ```
 
 And assign the result of calc714AnnualLambda() to some variable, d for instance.
 
 ```
-> d = calcForm714AnnualLambda(datadir)
+> d = calc714AnnualLambda(datadir)
 ```
