@@ -1,4 +1,4 @@
-R tools for acquiring and processing FERC Form 714
+# R tools for acquiring and processing FERC Form 714
 
 The current tool gets the most recent of the [FERC Form 714 data](https://www.ferc.gov/docs-filing/forms/form-714/data.asp)
 
@@ -52,5 +52,5 @@ And assign the result of calc714AnnualLambda() to some variable, d for instance.
 
 Here is a visualization of the central result of `calc714AnnualLambda()`, a panel of system lambdas, plotted here as a set of time series on a single graph.
 
-![](https://github.com/nsbowden/fercform714/Form714AnnualLambda.pdf)
+![](https://github.com/nsbowden/fercform714/blob/master/Form714AnnualLambda.pdf)
 
