@@ -52,5 +52,5 @@ And assign the result of calc714AnnualLambda() to some variable, d for instance.
 
 Here is a visualization of the central result of `calc714AnnualLambda()`, a panel of system lambdas, plotted here as a set of time series on a single graph.
 
-![System Lambda](https://github.com/nsbowden/fercform714/blob/master/annualLambda.png){:height="36px" width="36px"}
+![System Lambda](https://github.com/nsbowden/fercform714/blob/master/annualLambda.png)
 
